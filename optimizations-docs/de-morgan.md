@@ -1,4 +1,4 @@
-# Example 2 - Context aware optimizations (dangerous game)
+# Example 2
 
 ## Code 
 
